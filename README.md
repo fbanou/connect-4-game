@@ -7,8 +7,8 @@ A Java implementation of the classic **Connect 4** game with an **AI opponent** 
 ## 🎲 Game Features
 
 - 3 difficulty levels 
-- Player (🔴) vs Computer (🟡)
+- Player 🔴 vs Computer 🟡
 - Keyboard input (0–6) or mouse click
 - Finished games saved
-- Choose first player: **AI** or **You**
+- Choose first player
 - Win detection (horizontal, vertical, diagonal)  
