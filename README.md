@@ -1,7 +1,6 @@
 # 🎮 Connect 4 Game 
 
-A Java implementation of the classic **Connect 4** game with an **AI opponent** using the **MinMax algorithm with Alpha-Beta Pruning**.  
-Includes a **Swing GUI**, difficulty levels, game history and AI decision evaluation.
+A Java implementation of the classic **Connect 4** game with an **AI opponent** using the **MinMax algorithm with Alpha-Beta Pruning**. Includes a **Java Swing GUI**, difficulty levels, game history and AI decision evaluation.
 
 ---
 
